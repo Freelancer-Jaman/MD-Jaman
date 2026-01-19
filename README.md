@@ -1,4 +1,4 @@
 # MD-Jaman
 hello world 
 <br> 
-Author - Jaman Ayama 
+Author - Jaman (gurujaman) 
