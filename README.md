@@ -1,4 +1,4 @@
 # MD-Jaman
 hello world 
 <br> 
-Author - Jaman (gurujaman) 
+Author - Jaman (guruayman) 
